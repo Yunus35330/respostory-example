@@ -5,3 +5,5 @@ int main()
 	printf("Ddeneme");
 	return 0;
 }
+
+q
